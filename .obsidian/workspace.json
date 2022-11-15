@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project-management.md",
+                "file": "senior-engineer.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project-management.md",
+                "file": "senior-engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project-management.md",
+                "file": "senior-engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project-management.md"
+                "file": "senior-engineer.md"
               }
             }
           }
@@ -199,12 +199,12 @@
   },
   "active": "311d88d8cd4f8273",
   "lastOpenFiles": [
+    "scope-management.md",
     "README.md",
     "project-management.md",
-    "senior-engineer.md",
-    "scope-management.md",
-    "estimations.md",
     "performance-and-profiling.md",
-    "design-patterns.md"
+    "estimations.md",
+    "design-patterns.md",
+    "senior-engineer.md"
   ]
 }

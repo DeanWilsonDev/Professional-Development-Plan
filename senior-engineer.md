@@ -6,6 +6,6 @@ Now that I have reached mid level engineer, I need to start thinking about which
 
 Some of these areas include:
 
-[Understanding of Design Patterns](design-patterns)
+[Understanding of Design Patterns](./design-patterns.md)
 
-[Performance and Profiling](performance-and-profiling)
+[Performance and Profiling](./performance-and-profiling.md)
