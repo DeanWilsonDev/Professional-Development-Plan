@@ -11,12 +11,8 @@
             "id": "ed5456c469517fff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -73,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "senior-engineer.md",
+                "file": "design-patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "senior-engineer.md",
+                "file": "design-patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "senior-engineer.md",
+                "file": "design-patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "senior-engineer.md"
+                "file": "design-patterns.md"
               }
             }
           }
@@ -199,12 +195,12 @@
   },
   "active": "311d88d8cd4f8273",
   "lastOpenFiles": [
+    "senior-engineer.md",
     "scope-management.md",
     "README.md",
     "project-management.md",
     "performance-and-profiling.md",
     "estimations.md",
-    "design-patterns.md",
-    "senior-engineer.md"
+    "design-patterns.md"
   ]
 }
