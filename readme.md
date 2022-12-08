@@ -2,13 +2,14 @@ Professional Development Plan
 
 This repository is a Professional Development Plan that highlights the areas in which I am striving to grow in, professionally.
 
-
 These areas include:
 
-[Senior Engineer](./senior-engineer.md)
-* [Design Patterns](./design-patterns.md)
-* [Performance and Profiling](./performance-and-profiling.md)
+[Senior Engineer](./senior-engineer/senior-engineer.md)
 
-[Project Management](./project-management.md)
-* [Scope Management](./scope-management.md)
-* [Estimations](./estimations.md)
+- [Design Patterns](./senior-engineer/design-patterns//design-patterns.md)
+- [Performance and Profiling](./senior-engineer/performance-and-profiling.md)
+
+[Project Management](./project-management/project-management.md)
+
+- [Scope Management](./project-management/scope-management.md)
+- [Estimations](./project-management/estimations.md)
