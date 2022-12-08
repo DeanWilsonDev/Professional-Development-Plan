@@ -8,6 +8,8 @@ These areas include:
 
 - [Design Patterns](./senior-engineer/design-patterns//design-patterns.md)
 - [Performance and Profiling](./senior-engineer/performance-and-profiling.md)
+- [Development Practices](./development-practices/development-practices.md)
+- [Technologies](./technologies/technologies.md)
 
 [Project Management](./project-management/project-management.md)
 

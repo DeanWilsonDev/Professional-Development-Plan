@@ -11,6 +11,3 @@ List of technologies:
 - Typescript/Javascript
 - C#
 - Python
-- Unreal Engine
-- Unity Engine
-- Blender
