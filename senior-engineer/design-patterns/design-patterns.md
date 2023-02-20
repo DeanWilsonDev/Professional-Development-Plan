@@ -10,80 +10,80 @@ Below is the full list of Design Patterns that I wish to understand, I will add 
 
 ## Creational Patterns
 
-### Factory Method
+- Factory Method
 
-### Abstract Factory
+- Abstract Factory
 
-### Builder
+- Builder
 
-### [Singleton](./singleton/design-patterns-singleton.md)
+- [Singleton](./singleton/design-patterns-singleton.md)
 
-### Prototype
+- [Prototype](./prototype/design-patterns-prototype.md)
 
 ## Structural Patterns:
 
-### Adapter
+- Adapter
 
-### Bridge
+- Bridge
 
-### Composite
+- Composite
 
-### Decorator
+- Decorator
 
-### Facade
+- Facade
 
-### Flyweight
+- Flyweight
 
-### Proxy
+- Proxy
 
 ## Behavioural Patterns
 
-### Chain of Responsibility
+- Chain of Responsibility
 
-### Command
+- Command
 
-### Iterator
+- Iterator
 
-### Mediator
+- Mediator
 
-### Memento
+- Memento
 
-### Observer - Coming Soon
+- Observer - Coming Soon
 
-### State
+- State
 
-### Strategy
+- Strategy
 
-### Template Method
+- Template Method
 
-### Bytecode
+- Bytecode
 
-### Subclass Sandbox
+- Subclass Sandbox
 
-### Type Object
+- Type Object
 
 ## Sequencing Patterns
 
-### Double Buffer
+- Double Buffer
 
-### Game Loop
+- Game Loop
 
-### Update Method
+- Update Method
 
 ## Decoupling Patterns
 
-### Component
+- Component
 
-### Event Queue
+- Event Queue
 
-### Service Locator
+- Service Locator
 
 ## Optimization Patterns
 
-### Data Locality
+- Data Locality
 
-### Dirty Flag
+- Dirty Flag
 
-### Object Pool
+- Object Pool
 
-### Spatial Partition
+- Spatial Partition

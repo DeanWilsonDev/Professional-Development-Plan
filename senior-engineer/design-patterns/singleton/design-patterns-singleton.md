@@ -1,4 +1,4 @@
-# Design Patterns - Singleton
+lass Spawner{public :virtual ~sSpawner() {{}virtual MOster*o
 
 Singletons are the "One of a kind" pattern. The idea behind the Singleton pattern is to simply ensure that only one instance of an Object can be instantiated. It also allows for global access to the object. Despite its intentions, it's often noted that Singletons usually do more harm than good. It's also noted that his pattern should be used sparingly but they are so often overused.
 
